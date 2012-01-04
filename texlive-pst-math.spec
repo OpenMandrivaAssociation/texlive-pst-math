@@ -6,7 +6,7 @@
 # catalog-version 0.61
 Name:		texlive-pst-math
 Version:	0.61
-Release:	1
+Release:	2
 Summary:	Enhancement of PostScript math operators to use with pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-math
