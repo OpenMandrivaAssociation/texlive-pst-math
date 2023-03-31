@@ -1,6 +1,6 @@
 Name:		texlive-pst-math
 Version:	64732
-Release:	1
+Release:	2
 Summary:	Enhancement of PostScript math operators to use with pstricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-math
