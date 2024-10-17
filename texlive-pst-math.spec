@@ -3,7 +3,7 @@ Version:	67535
 Release:	1
 Summary:	Enhancement of PostScript math operators to use with pstricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-math
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-math
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-math.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-math.doc.r%{version}.tar.xz
